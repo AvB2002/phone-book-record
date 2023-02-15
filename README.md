@@ -18,17 +18,17 @@ The Phone Book App is capable of the following:
 
 ## Sample Screenshots
 
-![Sample Output #1](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/1.PNG)
+![Sample Output #1](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/1.PNG)
 
-![Sample Output #2](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/2.PNG)
+![Sample Output #2](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/2.PNG)
 
-![Sample Output #3](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/3.PNG)
+![Sample Output #3](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/3.PNG)
 
-![Sample Output #4](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/4.PNG)
+![Sample Output #4](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/4.PNG)
 
-![Sample Output #5](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/5.PNG)
+![Sample Output #5](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/5.PNG)
 
-![Sample Output #6](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/6.PNG)
+![Sample Output #6](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/6.PNG)
 
-![Sample Output #7](https://github.com/AvB2002/phone-book-app/blob/master/screenshots/7.PNG)
+![Sample Output #7](https://github.com/AvB2002/phone-book-record/blob/master/screenshots/7.PNG)
 
