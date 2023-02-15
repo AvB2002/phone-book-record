@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1624162184 source:c:\users\aldrian\pictures\phonebookapp\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<dos.h>
+	<tabulate/table.hpp>
+	<fstream>
+	<string.h>
+	<cstring>
+	<regex>
+
+1476096933 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\mysql_com.h
+
+1476096972 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\mysql_time.h
+
+1476096983 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\typelib.h
+
+1476097168 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\my_list.h
+
+1476097177 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\mysqlheaders\my_alloc.h
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\table.hpp
+	<tabulate/table_internal.hpp>
+	<variant>
+	<tabulate/variant_lite.hpp>
+	<utility>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\table_internal.hpp
+	<algorithm>
+	<iostream>
+	<string>
+	<tabulate/column.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/printer.hpp>
+	<tabulate/row.hpp>
+	<tabulate/termcolor.hpp>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\column.hpp
+	<algorithm>
+	<functional>
+	<iostream>
+	<memory>
+	<optional>
+	<string>
+	<tabulate/cell.hpp>
+	<tabulate/column_format.hpp>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\cell.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/format.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\format.hpp
+	<algorithm>
+	<cctype>
+	<cstddef>
+	<sstream>
+	<string>
+	<tabulate/color.hpp>
+	<tabulate/font_align.hpp>
+	<tabulate/font_style.hpp>
+	<tabulate/utf8.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\color.hpp
+	<tabulate/termcolor.hpp>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\termcolor.hpp
+	<unistd.h>
+	<io.h>
+	<windows.h>
+	<cstdio>
+	<iostream>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\font_align.hpp
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\font_style.hpp
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\utf8.hpp
+	<algorithm>
+	<cstdint>
+	<string>
+	<clocale>
+	<locale>
+	<cstdlib>
+	<tabulate/termcolor.hpp>
+	<wchar.h>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\optional_lite.hpp
+	<utility>
+	<cstddef>
+	<optional>
+	<cassert>
+	<utility>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\column_format.hpp
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\printer.hpp
+	<tabulate/color.hpp>
+	<tabulate/font_style.hpp>
+	<utility>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\row.hpp
+	<iostream>
+	<memory>
+	<string>
+	<tabulate/cell.hpp>
+	<optional>
+	<tabulate/optional_lite.hpp>
+	<vector>
+
+1610977637 c:\program files (x86)\dev-cpp\mingw64(c++17)\mingw\include\tabulate\variant_lite.hpp
+	<utility>
+	<cstddef>
+	<functional>
+	<variant>
+	<cstddef>
+	<limits>
+	<new>
+	<utility>
+	<cassert>
+	<stdexcept>
+	<functional>
+	<initializer_list>
+	<type_traits>
+	<tr1/type_traits>
+

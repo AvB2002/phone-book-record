@@ -1,0 +1,2 @@
+ HWND myConsole = GetConsoleWindow();
+                ShowWindow(myConsole, 0);

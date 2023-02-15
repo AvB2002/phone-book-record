@@ -1,0 +1,16 @@
+Barias
+	Lead Programmer (View All Contacts, Add Contacts, 
+	Update, Contacts, Add Contacts, Search Contacts and Delete Contacts)
+       	Program Designer
+	Researcher
+Laud
+	Researcher
+	Phone Records Creator(Name, Phone Number, Email Address, Address)
+	Programmer(View All Contacts and Add Contacts)
+Obejas 
+	Powerpoint Designer
+	Phone Records Creator(Name, Phone Number, Email Address, Address)
+	Programmer(Search Contacts and Delete Contacts)
+Ausan
+	Researcher(Phonebook Application Functionalities)
+	Programmer(Update Contacts and Exit)
